@@ -1,2 +1,2 @@
 # Model
-Include some real world physical models and math problems
+Real world physical model and math
